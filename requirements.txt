@@ -402,6 +402,7 @@ stable-baselines3=2.6.0=pypi_0
 stack-data=0.6.3=pypi_0
 statsmodels=0.14.4=py311h9f3472d_0
 stockstats=0.5.4=pypi_0
+swig=4.3.1=pypi_0
 sympy=1.14.0=pypi_0
 ta-lib=0.4.32=py311h7c22f60_0
 tenacity=9.1.2=pypi_0
